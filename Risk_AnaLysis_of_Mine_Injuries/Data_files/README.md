@@ -1,4 +1,4 @@
-All of the data was collected from govenrment and other mining datadbase related wesites.Data of Indain, Autralian and US mine injuries and fatalities over the period of 1992 to year 2015 was collected.
+All of the data was collected from govenrment and other mining database related websites.Data of Indain, Autralian and US mine injuries and fatalities over the period of 1992 to year 2015 was collected.
 Following are the links to the sources of this data:
 https://www.cdc.gov/niosh/mining/statistics/content/coaldisasters.html
 https://www.cdc.gov/niosh/mining/UserFiles/statistics/16g05aac.svg
