@@ -1,4 +1,5 @@
 A driver’s drowsiness detection application made using convolution neural networks and open cv library of python which helps in detecting drowsiness of driver, while driving if he feels sleepy for more than 4 second  it will play alarming sound by analyzing his eyes continously.There will be a score parameter on the screen which will be directly proportional to the amount of time your eyes have been closed, score will be zero when your eyes will be opened and it will start increasing as soon as you will close your eyes and as the score reaches 16 it will play the alarming sound.
-Model:CNN model for classification of state of eye that is closed or opened.
-haar cascade files:These are files that are used to define region of interest around person's face,lefteye, and righteye which is furhter processed using open cv to make ready to fit for model.
-detection.py:Program that loads the model and takes the each frame from camera, defines region of interest around the eyes, feed that frame into model, takes prediction from model and then evaluate it to calculate score.
+Model : CNN model for classification of state of eye that is closed or opened.
+haar cascade files : These are files that are used to define region of interest around person's face,lefteye, and righteye which is furhter processed using open cv to make ready to fit for model.
+detection.py : Program that loads the model and takes the each frame from camera, defines region of interest around the eyes, feed that frame into model, takes prediction from model and then evaluate it to calculate score.
+s
