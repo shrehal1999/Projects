@@ -1,6 +1,6 @@
 
 # Yelp Restaurant Review Classification
-This project is based on natural learning processing in which our machine learning model classfies a particular review of a restaurant as either 1 star or 5 star.
+This project is based on natural learning processing in which our machine learning model classifies a particular review of a restaurant as either 1 star or 5 star.
 
 # Text processing
 - Text prepocessing was done using the nltk and regex libraries of python.
@@ -9,6 +9,6 @@ This project is based on natural learning processing in which our machine learni
 - Vectorization of word tokens was performed using tf-idf transformer.
 
 # Machine learning
-- Navie Bayes classfier was used for classification of reviews.
+- Naive Bayes classifier was used for classification of reviews.
 - After a bit of hyper paramter tuning it produced results with 93% accuracy.
 
