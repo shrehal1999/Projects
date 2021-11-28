@@ -1,6 +1,6 @@
 
 # Yelp Restaurant Review Classification
-This project is based on natural learning processing in which our machine learning model classifies a particular review of a restaurant as either 1 star or 5 star.
+This project is based on natural language processing in which our machine learning model classifies a particular review of a restaurant as either 1 star or 5 star.
 
 # Text processing
 - Text prepocessing was done using the nltk and regex libraries of python.
